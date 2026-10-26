@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.env
+.pytest_cache
+*.wav
+*.png
+*.beats.txt
+!sample_audio/demo_song.wav
